@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+
+= 用途 =
+
+命令行下的diff使用时接受两个文件作为输入，不太方便。SharpDiff只是对diff的图形化封装。另外有配置文件保存功能。
+
+
+= Details =
+
+下载文件：
+
+diff.exe可以单独下载。是普通win32应用。
+
+SharpDiff1.0.1.exe需要dotNet2.0支持。
