@@ -12,6 +12,8 @@ diff.exe单独下载。是普通win32应用。
 
 SharpDiff1.0.1.exe需要dotNet2.0支持。
 
+SharpDiff1.0.2.exe加入鼠标拖曳支持。
+
 使用：
 
 图形化的，很傻瓜。同目录下生成一个配置文件。
