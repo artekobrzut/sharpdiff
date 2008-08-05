@@ -10,9 +10,9 @@
 
 diff.exe单独下载。是普通win32应用。
 
-SharpDiff1.0.1.exe需要dotNet2.0支持。
+SharpDiff 1.0.1.exe需要dotNet2.0支持。
 
-SharpDiff1.0.2.exe加入鼠标拖曳支持。
+SharpDiff 1.0.2.exe加入鼠标拖曳支持。
 
 使用：
 
